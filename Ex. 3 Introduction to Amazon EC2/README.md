@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: SANJAY A
+* **Register Number**: 212225040367
+* **Date of Submission**: 18-11-2026
 
 ---
 
@@ -96,13 +96,13 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ## Workflow (Student Explanation)
 
-(Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+
+1. Open the AWS Management Console and navigate to the EC2 service.
+2. Select an Amazon Machine Image (AMI) and choose a suitable EC2 instance type.
+3. Launch a virtual server by configuring the required instance settings.
+4. Connect to the EC2 instance and monitor its status.
+5. Perform basic instance operations such as start, stop, and terminate.
 
 ---
 
@@ -110,19 +110,22 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-(Insert Screenshot Here)
+<img width="1750" height="899" alt="AWS EC2 Instances Console View" src="https://github.com/user-attachments/assets/1a91eec5-8268-48f4-85d7-5735dc10daea" />
+
 
 ---
 
 ### Screenshot 2: SSH Connection to Instance
 
-(Insert Screenshot Here)
+<img width="1133" height="711" alt="Screenshot 2026-11-18 162315" src="https://github.com/user-attachments/assets/ce78272e-d5a3-4ac0-8bac-361592b30428" />
+
 
 ---
 
 ### Screenshot 3: Instance Monitoring / Status
 
-(Insert Screenshot Here)
+<img width="1750" height="899" alt="AWS EC2 Instances Console View" src="https://github.com/user-attachments/assets/4703fb4a-20fc-4706-bfcc-f0d25b22f216" />
+
 
 ---
 
