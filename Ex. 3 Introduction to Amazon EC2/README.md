@@ -1,7 +1,7 @@
 # Lab 3 – Introduction to Amazon Elastic Compute Cloud (EC2)
 
 ## Author
-
+sanjay
 * **Name**: ________________________________
 * **Register Number**: _____________________
 * **Date of Submission**: __________________
