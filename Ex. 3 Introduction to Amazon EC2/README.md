@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: SANJAY A
+* **Register Number**: 212225040367
+* **Date of Submission**: 18-11-2026
 
 ---
 
@@ -98,11 +98,23 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 (Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1.Open the AWS Management Console and navigate to the EC2 service.
+
+
+
+2.Select an Amazon Machine Image (AMI) and choose a suitable EC2 instance type.
+
+
+
+3.Launch a virtual server by configuring the required instance settings.
+
+
+
+4.Connect to the EC2 instance and monitor its status.
+
+
+
+5.Perform basic instance operations such as start, stop, and terminate.
 
 ---
 
@@ -110,22 +122,27 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-(Insert Screenshot Here)
+<img width="1750" height="899" alt="AWS EC2 Instances Console View" src="https://github.com/user-attachments/assets/787eac89-75cf-4abf-807b-b0a2e41796ef" />
+
 
 ---
 
 ### Screenshot 2: SSH Connection to Instance
 
-(Insert Screenshot Here)
+<img width="1133" height="711" alt="Screenshot 2026-11-18 162315" src="https://github.com/user-attachments/assets/ca16437f-774e-4200-968b-8619f4ebad9f" />
+
 
 ---
 
 ### Screenshot 3: Instance Monitoring / Status
 
-(Insert Screenshot Here)
+<img width="1764" height="892" alt="AWS EC2 System Log — SANJAY_A Account" src="https://github.com/user-attachments/assets/652f1da4-955f-4db4-82d7-3d3634a77aec" />
+
 
 ---
 
 ## Result 
+Successfully launched and managed an Amazon EC2 instance, understood AMIs and instance types, connected to the virtual server, monitored its status, and performed basic operations such as start, stop, and terminate.
+---
 
 This experiment provided hands-on experience with Amazon EC2 by demonstrating how to launch, connect, manage, and monitor a virtual server in AWS. It helped in understanding the concept of Infrastructure as a Service (IaaS) and how compute resources can be provisioned and controlled on demand in the cloud.
