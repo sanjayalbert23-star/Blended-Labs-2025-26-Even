@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: SANJAY A
+* **Register Number**: 212225040367
+* **Date of Submission**:20-11-2026
 
 ---
 
@@ -82,33 +82,36 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ## Workflow (Student Explanation)
 
-(Write the steps you followed in your own words)
+1. Launch an EC2 instance in AWS and configure the required instance type, operating system, and security group.
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+2. Connect to the EC2 instance using SSH and update the system packages.
 
+3. Install a Database Management System (DBMS) such as MySQL or MariaDB on the EC2 instance.
+
+4. Configure the database server, create a sample database, and create a user with appropriate permissions.
+
+5. Verify the database server connectivity by connecting to the database and executing basic SQL queries.
 ---
 
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: EC2 Instance for Database Server
 
-(Insert Screenshot Here)
+<img width="1845" height="1020" alt="Screenshot 2026-11-20 151710" src="https://github.com/user-attachments/assets/9e4c08e0-720e-4821-bb2b-58df6a9d31ce" />
+
 
 ---
 
 ### Screenshot 2: Database Service Running
 
-(Insert Screenshot Here)
+<img width="1843" height="1017" alt="Screenshot 2026-11-20 152949" src="https://github.com/user-attachments/assets/08109339-7e59-490c-b32c-241574d52040" />
 
 ---
 
 ### Screenshot 3: Sample Database and Table
 
-(Insert Screenshot Here)
+<img width="1138" height="686" alt="Screenshot 2026-11-20 161825" src="https://github.com/user-attachments/assets/63c1e9eb-e802-40dc-9fea-d15cf15b6021" />
+
 
 ---
 
